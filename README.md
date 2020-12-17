@@ -4,3 +4,4 @@ My learning and practice by studying Python Programming: An Introduction to Comp
 02: Charpter 2 - convert.py;
 03: Charpter 2 - avg3.py;
 04: Charpter 4 - graphics.py;spent days trying to figure out how to import graphics.py under Macintosh,finally made it. Thanks to Stack Overflow
+12/16/20 - took and failed PCAP – Certified Associate in Python Programming
